@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/Vingurzhou/Vingurzhou/main/README.md",
+  "title": "vingurzhou's site",
+  "name": "vingurzhou",
+  "ascii": "vingurzhou's site",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "zwz0123460218@icloud.com",
+  "ps1_hostname": "127.0.0.1",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/Vingurzhou/vingurzhou.github.io",
+  "resume_url": "",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/vingurzhou",
+    "patreon": "https://patreon.com/vingurzhou"
   },
   "colors": {
     "light": {
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#1c1c1c",
+      "foreground": "#FFFAFA",
+      "yellow": "#FFFAFA",
+      "green": "#FFFAFA",
+      "gray": "#FFFAFA",
+      "blue": "#FFFAFA",
+      "red": "#FFFAFA"
     }
   }
 }
